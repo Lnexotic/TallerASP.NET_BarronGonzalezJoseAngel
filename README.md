@@ -121,7 +121,5 @@ Este proyecto fue desarrollado con fines educativos para la carrera de **Ingenie
 
 -----
 
-*Hecho por [José Ángel Barrón González]
+Hecho por [José Ángel Barrón González]
 
-```
-```
