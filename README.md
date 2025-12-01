@@ -6,7 +6,7 @@ Aplicación web completa para la gestión de tareas personales desarrollada bajo
 | **Estudiante** | **Barrón González José Ángel** |
 | **Carrera** | **Ingeniería en Sistemas Computacionales (ISC)** |
 | **Materia/Taller** | Taller de Desarrollo Web con ASP.NET Core |
-| **Estado** | 🟢 Finalizado / En Producción |
+| **Estado** | 🟢 Finalizado |
 
 ---
 
